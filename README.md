@@ -1,6 +1,6 @@
 # Recursive-subfinder
 
-# Usage
+## Usage
 ```
 chmod +x recursive_subfinder.sh
 ./recursive_subfinder.sh
